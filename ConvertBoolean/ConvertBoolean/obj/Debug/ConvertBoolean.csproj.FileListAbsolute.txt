@@ -1,0 +1,8 @@
+C:\Users\walte\source\repos\CodeWars_CSharp\ConvertBoolean\ConvertBoolean\obj\Debug\ConvertBoolean.csproj.AssemblyReference.cache
+C:\Users\walte\source\repos\CodeWars_CSharp\ConvertBoolean\ConvertBoolean\obj\Debug\ConvertBoolean.csproj.SuggestedBindingRedirects.cache
+C:\Users\walte\source\repos\CodeWars_CSharp\ConvertBoolean\ConvertBoolean\obj\Debug\ConvertBoolean.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\CodeWars_CSharp\ConvertBoolean\ConvertBoolean\bin\Debug\ConvertBoolean.exe.config
+C:\Users\walte\source\repos\CodeWars_CSharp\ConvertBoolean\ConvertBoolean\bin\Debug\ConvertBoolean.exe
+C:\Users\walte\source\repos\CodeWars_CSharp\ConvertBoolean\ConvertBoolean\bin\Debug\ConvertBoolean.pdb
+C:\Users\walte\source\repos\CodeWars_CSharp\ConvertBoolean\ConvertBoolean\obj\Debug\ConvertBoolean.exe
+C:\Users\walte\source\repos\CodeWars_CSharp\ConvertBoolean\ConvertBoolean\obj\Debug\ConvertBoolean.pdb
