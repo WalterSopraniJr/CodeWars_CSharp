@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F32CD99B-CAF4-40E1-B823-AF2AE0C3FA1C}</ProjectGuid>
+    <ProjectGuid>{6367B8CE-B699-4D62-9C07-ACBEBABBD191}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CheckSameCase</RootNamespace>
-    <AssemblyName>CheckSameCase</AssemblyName>
+    <RootNamespace>RemoveCharacter</RootNamespace>
+    <AssemblyName>RemoveCharacter</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Kata.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

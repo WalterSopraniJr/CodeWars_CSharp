@@ -13,23 +13,23 @@ namespace CheckSameCase
         //se ambos caracteres forem letras mas de cases distintos, retorne 0
         public static int SameCase(char a, char b)
         {
-            bool BothLower = (a > 96 && a < 123 && b > 96 && b < 123);
-            bool BothUpper = (a > 65 && a < 90 && b > 65 && b < 90);
+            bool A = char.IsUpper(a);
+            bool B = char.IsUpper(b);
+            bool C = char.IsLetter(a);
+            bool D = char.IsLetter(b);
 
-            bool LowerUpper = (a > 96 && a < 123 && b > 65 && b < 90);
-            bool UpperLower = (a > 65 && a < 90 && );
+            bool BothLower = (A == false && B == false);
+            bool BothUpper = (A == true && B == true);
 
-            if (BothLower || BothUpper)
-            {
-                return 1;
-            }
-            else if (a > 96 && a < 123 || b > 96 && b < 123 || a > 65 && a < 90 || b > 65 && b < 90)
-            {
-                return 0;
-            }
-            return -1;
-        }
+            bool LowerUpper = (A == false && B == true);
+            bool UpperLower = (A == true && B == false);
 
-        
+            bool NotLetter = (C == false || D == false);
+
+            if (NotLetter) { return -1; }
+            else if (LowerUpper || UpperLower) { return 0;}
+            else if(BothLower || BothUpper) { return 1; }
+            return 2;
+        }        
     }
 }
