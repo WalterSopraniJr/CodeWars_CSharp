@@ -1,0 +1,8 @@
+C:\Users\walte\source\repos\CodeWars_CSharp\CheckSameCase\CheckSameCase\obj\Debug\CheckSameCase.csproj.AssemblyReference.cache
+C:\Users\walte\source\repos\CodeWars_CSharp\CheckSameCase\CheckSameCase\obj\Debug\CheckSameCase.csproj.SuggestedBindingRedirects.cache
+C:\Users\walte\source\repos\CodeWars_CSharp\CheckSameCase\CheckSameCase\obj\Debug\CheckSameCase.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\CodeWars_CSharp\CheckSameCase\CheckSameCase\bin\Debug\CheckSameCase.exe.config
+C:\Users\walte\source\repos\CodeWars_CSharp\CheckSameCase\CheckSameCase\bin\Debug\CheckSameCase.exe
+C:\Users\walte\source\repos\CodeWars_CSharp\CheckSameCase\CheckSameCase\bin\Debug\CheckSameCase.pdb
+C:\Users\walte\source\repos\CodeWars_CSharp\CheckSameCase\CheckSameCase\obj\Debug\CheckSameCase.exe
+C:\Users\walte\source\repos\CodeWars_CSharp\CheckSameCase\CheckSameCase\obj\Debug\CheckSameCase.pdb
