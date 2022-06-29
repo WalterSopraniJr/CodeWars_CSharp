@@ -1,0 +1,8 @@
+C:\Users\walte\source\repos\CodeWars_CSharp\AreYouPlayingBanjo\AreYouPlayingBanjo\obj\Debug\AreYouPlayingBanjo.csproj.AssemblyReference.cache
+C:\Users\walte\source\repos\CodeWars_CSharp\AreYouPlayingBanjo\AreYouPlayingBanjo\obj\Debug\AreYouPlayingBanjo.csproj.SuggestedBindingRedirects.cache
+C:\Users\walte\source\repos\CodeWars_CSharp\AreYouPlayingBanjo\AreYouPlayingBanjo\obj\Debug\AreYouPlayingBanjo.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\CodeWars_CSharp\AreYouPlayingBanjo\AreYouPlayingBanjo\bin\Debug\AreYouPlayingBanjo.exe.config
+C:\Users\walte\source\repos\CodeWars_CSharp\AreYouPlayingBanjo\AreYouPlayingBanjo\bin\Debug\AreYouPlayingBanjo.exe
+C:\Users\walte\source\repos\CodeWars_CSharp\AreYouPlayingBanjo\AreYouPlayingBanjo\bin\Debug\AreYouPlayingBanjo.pdb
+C:\Users\walte\source\repos\CodeWars_CSharp\AreYouPlayingBanjo\AreYouPlayingBanjo\obj\Debug\AreYouPlayingBanjo.exe
+C:\Users\walte\source\repos\CodeWars_CSharp\AreYouPlayingBanjo\AreYouPlayingBanjo\obj\Debug\AreYouPlayingBanjo.pdb
