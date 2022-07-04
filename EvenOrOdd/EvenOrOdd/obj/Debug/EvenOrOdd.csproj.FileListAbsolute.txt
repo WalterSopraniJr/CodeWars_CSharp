@@ -1,0 +1,8 @@
+C:\Users\walte\source\repos\CodeWars_CSharp\EvenOrOdd\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+C:\Users\walte\source\repos\CodeWars_CSharp\EvenOrOdd\EvenOrOdd\bin\Debug\EvenOrOdd.exe
+C:\Users\walte\source\repos\CodeWars_CSharp\EvenOrOdd\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
+C:\Users\walte\source\repos\CodeWars_CSharp\EvenOrOdd\EvenOrOdd\obj\Debug\EvenOrOdd.csproj.AssemblyReference.cache
+C:\Users\walte\source\repos\CodeWars_CSharp\EvenOrOdd\EvenOrOdd\obj\Debug\EvenOrOdd.csproj.SuggestedBindingRedirects.cache
+C:\Users\walte\source\repos\CodeWars_CSharp\EvenOrOdd\EvenOrOdd\obj\Debug\EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\CodeWars_CSharp\EvenOrOdd\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+C:\Users\walte\source\repos\CodeWars_CSharp\EvenOrOdd\EvenOrOdd\obj\Debug\EvenOrOdd.pdb
