@@ -1,0 +1,8 @@
+C:\Users\walte\source\repos\CodeWars_CSharp\ConvertStringToNumber\ConvertStringToNumber\bin\Debug\ConvertStringToNumber.exe.config
+C:\Users\walte\source\repos\CodeWars_CSharp\ConvertStringToNumber\ConvertStringToNumber\bin\Debug\ConvertStringToNumber.exe
+C:\Users\walte\source\repos\CodeWars_CSharp\ConvertStringToNumber\ConvertStringToNumber\bin\Debug\ConvertStringToNumber.pdb
+C:\Users\walte\source\repos\CodeWars_CSharp\ConvertStringToNumber\ConvertStringToNumber\obj\Debug\ConvertStringToNumber.csproj.AssemblyReference.cache
+C:\Users\walte\source\repos\CodeWars_CSharp\ConvertStringToNumber\ConvertStringToNumber\obj\Debug\ConvertStringToNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\walte\source\repos\CodeWars_CSharp\ConvertStringToNumber\ConvertStringToNumber\obj\Debug\ConvertStringToNumber.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\CodeWars_CSharp\ConvertStringToNumber\ConvertStringToNumber\obj\Debug\ConvertStringToNumber.exe
+C:\Users\walte\source\repos\CodeWars_CSharp\ConvertStringToNumber\ConvertStringToNumber\obj\Debug\ConvertStringToNumber.pdb
